@@ -1,5 +1,5 @@
 # Constain
-Introduction to Constain
+# Introduction to Constain
 
 As humanity became a Type II civilization, we reached the pinnacle of our power, but we are not done yet. A race of cave dwellers and hunter-gatherers establishing dominance over the solar system goes to show the potential of mankind. However, this potential has been questioned by a foreign entity threatening our existence. Mankind is at war with a Type III civilization. This has led to an acute shortage of resources, with all focus being diverted into the war, life has become tough for the ordinary citizen. Also with excessive pollution and climate change on planet earth, basic essentials like clean water and oxygen are no longer available in the environment. It is impossible to move outdoors without oxygen kits.
 
@@ -10,17 +10,17 @@ The user after opening the app can log in or create an account on Constain, afte
 The central goal of Constain is to ensure the survival of humanity during a trying time while also managing to save essential resources.  
 
 
-Prerequisites
+# Prerequisites
 
 API Level 28 
 Internet connection 
 GPS
 
-Installation
+# Installation
 
 Download the APK file and install it to run the app. 
  
-Features
+# Features
 
 The app is used to distribute resources among the common people in times when these resources are not available due to climate change and the planetary war. The user logs in or creates an account for the app enters their details(sex, age, weight, height) on the basis of which the user is divided into a category of resource packages that they can receive. 
 
