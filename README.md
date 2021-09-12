@@ -12,9 +12,11 @@ The central goal of Constain is to ensure the survival of humanity during a tryi
 
 # Prerequisites
 
--API Level 28 
--Internet connection 
--GPS
+API Level 28
+
+Internet connection 
+
+GPS must be turned on manually 
 
 # Installation
 
@@ -28,6 +30,6 @@ The app is used to distribute resources among the common people in times when th
 Users can see their live location through Google Maps.
 
 
-You could access the Branding, UI and UI flow of the app through the following link.
+You can access the Branding, UI and UI flow of the app through the following link.
 
 https://www.figma.com/file/007FcxCtLZmVsgOXLq3kFb/CREATECH?node-id=0%3A1
