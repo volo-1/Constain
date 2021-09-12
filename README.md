@@ -12,9 +12,9 @@ The central goal of Constain is to ensure the survival of humanity during a tryi
 
 # Prerequisites
 
-API Level 28 
-Internet connection 
-GPS
+-API Level 28 
+-Internet connection 
+-GPS
 
 # Installation
 
