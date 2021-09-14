@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242408477333",
+    "project_id": "constain-341b3",
+    "storage_bucket": "constain-341b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242408477333:android:31dc558b3d3b47012dc19c",
+        "android_client_info": {
+          "package_name": "com.example.constain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242408477333-42rksi6bnaeoojkhvlp7iseidtva0o5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmOjkUqtP8htwk43KyDSGFydCbd01bjJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242408477333-42rksi6bnaeoojkhvlp7iseidtva0o5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

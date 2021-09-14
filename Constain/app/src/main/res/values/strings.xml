@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Constain</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intentName">NAME</string>
+    <string name="intentMobileNumber">MOBILE_NUMBER</string>
+    <string name="intentEmail">EMAIL</string>
+    <string name="intentPassword">PASSWORD</string>
+    <string name="intentAge">AGE</string>
+    <string name="intentGender">GENDER</string>
+    <string name="intentWeight">WEIGHT</string>
+    <string name="intentHeight">HEIGHT</string>
+    <string name="intentHeightUnit">HEIGHT_UNIT</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
