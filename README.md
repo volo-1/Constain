@@ -18,6 +18,10 @@ Internet connection
 
 GPS must be turned on manually 
 
+# Framework
+
+Java
+
 # Installation
 
 Download the APK file and install it to run the app. 
